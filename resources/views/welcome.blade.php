@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Study Platform
+                    AN-NISA SCHOOL
                 </div>
                 <p>
                     @component('components.who')

@@ -32,11 +32,6 @@
                             <button class="btn btn-info btn-block btn-lesson">Видео</button>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                        <a href="{{ url('/test/' . $lesson->id) }}">
-                            <button class="btn btn-warning btn-block btn-lesson">Тест</button>
-                        </a>
-                    </div>
                 </div>
             </div>
             <br>
